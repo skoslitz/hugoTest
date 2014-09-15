@@ -7,23 +7,32 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 09 Aug 2014 05:04:40 UTC</updated>
+    <updated>Sun, 14 Sep 2014 05:04:40 UTC</updated>
     
     <item>
-      <title>August 2014</title>
-      <link>http://localhost:1313/entry02/</link>
-      <pubDate>Sat, 09 Aug 2014 05:04:40 UTC</pubDate>
+      <title>Telefon</title>
+      <link>http://localhost:1313/Bilder/entry02/</link>
+      <pubDate>Sun, 14 Sep 2014 05:04:40 UTC</pubDate>
       
-      <guid>http://localhost:1313/entry02/</guid>
+      <guid>http://localhost:1313/Bilder/entry02/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Juli 2014</title>
-      <link>http://localhost:1313/entry01/</link>
-      <pubDate>Sat, 09 Aug 2014 05:04:40 UTC</pubDate>
+      <title>Eindrücke aus MV</title>
+      <link>http://localhost:1313/Bilder/entry01/</link>
+      <pubDate>Wed, 09 Jul 2014 05:04:40 UTC</pubDate>
       
-      <guid>http://localhost:1313/entry01/</guid>
+      <guid>http://localhost:1313/Bilder/entry01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waas?</title>
+      <link>http://localhost:1313/To%CC%88ne/entry01/</link>
+      <pubDate>Wed, 09 Jul 2014 05:04:40 UTC</pubDate>
+      
+      <guid>http://localhost:1313/To%CC%88ne/entry01/</guid>
       <description></description>
     </item>
     

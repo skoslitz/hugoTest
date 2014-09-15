@@ -1,4 +1,4 @@
 baseurl = "http://yourSiteHere"
-languageCode = "en-us"
+languageCode = "de_DE.UTF-8"
 theme = "tinyce"
 title = "Theodor"
