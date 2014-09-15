@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Development on Theodor </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/development/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 09 Aug 2014 05:04:40 UTC</updated>
+    
+    <item>
+      <title>August 2014</title>
+      <link>http://localhost:1313/entry02/</link>
+      <pubDate>Sat, 09 Aug 2014 05:04:40 UTC</pubDate>
+      
+      <guid>http://localhost:1313/entry02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juli 2014</title>
+      <link>http://localhost:1313/entry01/</link>
+      <pubDate>Sat, 09 Aug 2014 05:04:40 UTC</pubDate>
+      
+      <guid>http://localhost:1313/entry01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
